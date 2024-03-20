@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tambola/static/css/main.816bd367.css",
+    "main.js": "/Tambola/static/js/main.a5b0a83a.js",
+    "static/js/453.c4a554a0.chunk.js": "/Tambola/static/js/453.c4a554a0.chunk.js",
+    "static/media/logo.svg": "/Tambola/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tambola/index.html",
+    "main.816bd367.css.map": "/Tambola/static/css/main.816bd367.css.map",
+    "main.a5b0a83a.js.map": "/Tambola/static/js/main.a5b0a83a.js.map",
+    "453.c4a554a0.chunk.js.map": "/Tambola/static/js/453.c4a554a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816bd367.css",
+    "static/js/main.a5b0a83a.js"
+  ]
+}
